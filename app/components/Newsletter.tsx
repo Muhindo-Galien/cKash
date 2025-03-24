@@ -39,7 +39,7 @@ const Newsletter = () => {
             />
           </div>
           <h2 className="text-3xl md:text-3xl font-bold text-white leading-tight mb-4">
-            Receive Newsletter & Updates
+            Receive Newsletter &amp; Updates
           </h2>
           <p className="text-white/80 text-base  mb-8">
             Real stories from real users

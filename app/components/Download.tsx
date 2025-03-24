@@ -31,7 +31,7 @@ const Download = () => {
               </p>
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-[#0066FF] leading-tight mb-6">
-              Download the App & <br />
+              Download the App &amp; <br />
               Start Transacting
             </h2>
             <p className="text-gray-600 text-sm mb-8 max-w-lg">

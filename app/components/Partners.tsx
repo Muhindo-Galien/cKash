@@ -41,7 +41,9 @@ const Partners = () => {
               height={60}
               className="object-contain"
             />
-            <p className="text-gray-600 text-sm font-normal uppercase">small experience</p>
+            <p className="text-gray-600 text-sm font-normal uppercase">
+              small experience
+            </p>
             <Image
               src="/left-icon.svg"
               alt="Hero Icon"
@@ -51,7 +53,7 @@ const Partners = () => {
             />
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-[#0066FF] leading-tight">
-            Partners & integrations
+            Partners &amp; integrations
           </h2>
         </div>
 
