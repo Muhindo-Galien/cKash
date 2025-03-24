@@ -91,7 +91,7 @@ const Testimonials = () => {
             />
           </div>
           <h2 className="text-3xl font-bold text-white leading-tight mb-6">
-            Customer's Testimonial
+            Customer&apos;s Testimonial
           </h2>
           <p className="text-white/80 font-normal text-base">
             Real stories from real users — see how our seamless app payment
