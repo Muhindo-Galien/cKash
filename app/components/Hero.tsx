@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import { FiDownload } from "react-icons/fi";
 import { Sora } from "next/font/google";
 
 const sora = Sora({

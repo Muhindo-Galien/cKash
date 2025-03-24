@@ -2,7 +2,6 @@
 
 import { Sora } from "next/font/google";
 import Image from "next/image";
-import {  FiGlobe } from "react-icons/fi";
 import { GrTransaction } from "react-icons/gr";
 import { FaGasPump } from "react-icons/fa";
 import { BsCurrencyExchange } from "react-icons/bs";

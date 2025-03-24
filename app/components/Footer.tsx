@@ -1,7 +1,6 @@
 "use client";
 
 import { Sora } from "next/font/google";
-import Image from "next/image";
 import Link from "next/link";
 import { FaApple, FaGooglePlay } from "react-icons/fa";
 import { FaXTwitter, FaReddit, FaLinkedin, FaMedium } from "react-icons/fa6";
